@@ -11,7 +11,9 @@ const Services = () => {
                 <div className="text-center">
                     <h2 className="text-headingColor font-[800] text-[2.4rem] mb-5">What do I</h2>
                     <p className="lg:max-w-[600px] lg:mx-auto text-headingColor font-[500] text-[16px] leading-7">
-                    Responsive React Portfolio Website Design Using React JS and Tailwind CSS 💪.And adaptable to all mobile devices. Includes Source codes in React.js 🎁. Thank you!
+                    I'm versatile professional with a passion for creating exceptional digital experiences. 
+                    With expertise in Backend Development, Frontend Development, and UI/UX Design, 
+                    I bring a unique blend of technical prowess and design sensibility to every project 💪.  
                     </p>
                 </div>
                 <div className="flex flex-col jusitfy-center sm:py-12">

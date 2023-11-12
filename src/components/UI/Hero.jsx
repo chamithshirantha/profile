@@ -16,7 +16,7 @@ const Hero = () => {
                         Hello Welcome
                     </h5>
                     <h1 data-aos="fade-up" data-aos-duration="1500" className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5">
-                        I'm Chamith Shirantha <br/> Web Developer
+                        I'm Chamith Shirantha <br/> Full-Stack Developer
                     </h1>
                     <div data-aos="fade-up" data-aos-duration="1800" data-aos-delay="200" className="flex items-center gap-6 mt-7">
                         <a href="mailto:chamithshirantha99@gmail.com">
@@ -85,13 +85,13 @@ const Hero = () => {
                         </div>
                         <div className="mb-10">
                             <h2 className="text-headingColor font-[700] text-[32px]">
-                                <CountUp start={0} end={150} duration={2} suffix="+"/>
+                                <CountUp start={0} end={20} duration={2} suffix="+"/>
                             </h2>
                             <h4 className="text-headingColor font-[600] text-[18px]">Happy Clients</h4>
                         </div>
                         <div className="mb-10">
                             <h2 className="text-headingColor font-[700] text-[32px]">
-                                <CountUp start={0} end={180} duration={2} suffix="+"/>
+                                <CountUp start={0} end={15} duration={2} suffix="+"/>
                             </h2>
                             <h4 className="text-headingColor font-[600] text-[18px]">Projects Completed</h4>
                         </div>
